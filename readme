@@ -1,1 +1,40 @@
 readme
+
+
+Context :
+Les maladies rénales affectent la fonction des reins, essentiels pour filtrer le sang, 
+éliminer les déchets et réguler l'équilibre électrolytique. 
+Elles peuvent être causées par divers facteurs tels que des infections, des lésions, 
+des troubles auto-immuns ou des maladies héréditaires. Les symptômes incluent fatigue, 
+gonflement, urine trouble, douleurs abdominales, hypertension. 
+Le diagnostic nécessite des tests et des examens d'imagerie, parfois une biopsie rénale. 
+Le traitement varie selon la cause et la gravité, impliquant médicaments, 
+modifications du mode de vie, dialyse ou transplantation. 
+La prévention passe par des habitudes de vie saines, le contrôle des conditions médicales sous-jacentes et des bilans de santé réguliers.
+
+Table des variables :
+* Age : âge / Age
+* Al : albumine / Albumin
+* Ane : anémie / Anemia
+* Appet : appétit / Appetite
+* Ba : bactérie / Bacteria
+* Bgr : glycémie aléatoire / Blood Glucose Random
+* BP : pression sanguine / Blood Pressure
+* Bu : urée sanguine / Blood Urea
+* Cad : maladie coronarienne / Coronary Artery Disease
+* Class : classe / Class
+* DM : diabète sucré / Diabetes Mellitus
+* Hemo : hémoglobine / Hemoglobin
+* Htn : hypertension / Hypertension
+* PC : cellule de pus / Pus Cell
+* Pcc : amas de cellules de pus / Pus Cell Clumps
+* Pcv : volume d'hématocrites / Packed Cell Volume
+* Pe : œdème de la pédale / Pedal Edema
+* Pot : potassium / Potassium
+* Rbc : globules rouges / Red Blood Cells
+* Rc : nombre de globules rouges / Red Blood Cell Count
+* Sc : créatinine sérique / Serum Creatinine
+* SG : densité urinaire / Specific Gravity
+* Sod : sodium / Sodium
+* Su : sucre / Sugar
+* WC : nombre de globules blancs / White Blood Cell Count
